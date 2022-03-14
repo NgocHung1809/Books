@@ -1,0 +1,63 @@
+.khung{
+    width: 300px;
+    height: 340px;
+    border: 2px solid #881642;
+    padding : 30px;
+    position: relative;
+    box-shadow: 5px 5px 10px #881642;
+}
+.dang-nhap{
+    display: block;
+    width: 250px;
+    height: 30px;
+    margin : 20px;
+}
+.mat-khau{
+    display: block;
+    width: 250px;
+    height: 30px;
+    margin : 20px;
+}
+.nut{
+    width: 258px;
+    height: 30px;
+    background-color: #881642;
+    padding-top: 10px;
+    margin: 20px;
+    bottom: 76px;
+    left: 32px;
+    position: absolute;
+}
+.nut:hover{
+    background-color: #6d012a;
+}
+.nut>a{
+    text-decoration: none;
+    font-size: 12pt;
+    color: white;
+}
+.ghi-nho{
+    position: absolute;
+    bottom: 159px;
+    left: 51px;
+}
+.trang-chu{
+    position: absolute;
+    bottom: 34px;
+    left: 120px;
+}
+h1{
+    color: red;
+}
+body{
+    background-color: #eeeeeeea;
+}
+.dang-ky>a{
+    text-decoration: none;
+    font-size: 12pt;
+}
+.dang-ky{
+    position: absolute;
+    bottom: 46px;
+    left: 55px;
+}

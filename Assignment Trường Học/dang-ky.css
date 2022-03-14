@@ -1,0 +1,54 @@
+.khung{
+    width: 350px;
+    height: 540px;
+    border: 2px solid black;
+    padding : 30px;
+    position: relative;
+    box-shadow: 5px 5px 10px #881642;
+}
+.nut{
+    padding : 10px 30px;
+    background-color: #881642;
+}
+.nut>a{
+    text-decoration: none;
+    color : white;
+}
+.nut>a:hover{
+    color : black;
+}
+.khung>div{
+    margin : 20px;
+    position: absolute;
+    left : 10px;
+}
+.a{
+    left: 10px;
+    top: 150px;
+}
+.b{
+    left: 10px;
+    top : 194px;
+}
+.c{
+    left: 10px;
+    top : 238px;
+}
+.d{
+    left: 10px;
+    top : 284px;
+}
+.e{
+    left: 10px;
+    top : 337px;
+}
+button{
+    position: absolute;
+    bottom: 144px;
+    left: 152px;
+}
+.trang{
+    position: absolute;
+    bottom: 80px;
+    left: 147px;
+}
